@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436068841195",
+    "firebase_url": "https://gomoku-13d22.firebaseio.com",
+    "project_id": "gomoku-13d22",
+    "storage_bucket": "gomoku-13d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436068841195:android:5c241a1570e78eb9d530ae",
+        "android_client_info": {
+          "package_name": "com.example.gomoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436068841195-ck9briqunp0sqq7epbrmlh6lt9plgq9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt8gDJgS1hxQxyV6z8vQ7EdHZzZt1JEgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436068841195-ck9briqunp0sqq7epbrmlh6lt9plgq9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
